@@ -1,0 +1,1 @@
+Those folders should go into the following folder: Documents/Arduino/Libraries

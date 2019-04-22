@@ -1,0 +1,5 @@
+# Microsoft Developer Studio Generated Dependency File, included by builder.mak
+
+.\builder.cpp : \
+	".\StdAfx.h"\
+	

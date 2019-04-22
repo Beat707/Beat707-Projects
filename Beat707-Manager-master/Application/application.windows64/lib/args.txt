@@ -1,0 +1,3 @@
+
+Beat707_Manager
+Beat707_Manager.jar,core.jar,RXTXcomm.jar,serial.jar

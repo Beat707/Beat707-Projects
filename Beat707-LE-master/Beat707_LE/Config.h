@@ -1,0 +1,59 @@
+/*
+
+  Created by Beat707 (c) 2011 - http://www.Beat707.com
+  
+  Configuration File
+  
+*/
+
+#define BLUE_POS 4
+#define GREEN_POS 8
+#define RED_POS 12
+#define COLOR_DEPTH 15
+#define SR_SCK    A0
+#define SR_DATA   A1
+#define SR_LATCH  A2
+#define SR_CLEAR  A3
+#define SR_EN     A4
+
+#define XSR_SCK    0
+#define XSR_DATA   1
+#define XSR_LATCH  2
+
+#define DRUMTRACKS 10 // + 2 accent tracks
+#define NPATTERNS 8
+#define BT_HOLD_TIME 20 // max of 255
+#define ACCENT1 DRUMTRACKS
+#define ACCENT2 DRUMTRACKS+1
+#define INIT_EEPROM 0 // This will clear the EEPROM data after you hit Play/Stop (it won't load any old EEPROM data during startup)
+#define SEND_MIDI_SYNC 0
+
+#define COLOR1 bluef
+#define COLOR2 redf
+#define COLOR3 greenf
+
+#define STEPS_COLOR COLOR1
+#define TRANSPORT_COLOR COLOR2
+#define CUR_TRACK_COLOR COLOR3
+#define CUR_PATTERN_COLOR COLOR3
+#define MIRROR_PATTMODE_COLOR COLOR3
+#define ED_DOUBLE_STEPS_COLOR COLOR3
+#define SPECIAL_MODE_COLOR COLOR3
+#define SPECIAL_MODE_CLOSE_COLOR COLOR2
+#define SPECIAL_MODE_CURTRACK_COLOR COLOR1
+
+#define TRANSPORT_COLOR_STRENG 15
+#define TRANSPORT_BLINK_RATE 150
+#define CUR_TRACK_COLOR_STRENG 10
+#define CUR_TRACKAC_COLOR_STRENG 4
+#define CUR_PATTERN03_COLOR_STRENG 10
+#define CUR_PATTERN47_COLOR_STRENG 4
+#define ED_DOUBLE_STEPS_COLOR_STRENG 5
+#define MIRROR_PATTMODE_COLOR_STRENG 5
+#define SPECIAL_MODE_COLOR_STRENG 10
+#define SPECIAL_MODE_CENTER_COLOR_STRENG 4
+#define SPECIAL_MODE_CLOSE_COLOR_STRENG 4
+#define SPECIAL_MODE_CURTRACK_COLOR_STRENG 10
+#define SPECIAL_MODE_CURTRACKAC_COLOR_STRENG 4
+
+#define MSerial xSerial

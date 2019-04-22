@@ -1,0 +1,14 @@
+Midi Over USB?            000
+Fade InOut Min            004
+Buttons Click Counter     004
+Buttons Hold Counter      428
+Buttons Repeat Counter    148
+Buttons Decay             002
+Buttons Shift Counter     006
+Loading Counter           200
+Step Note Off             'x'
+Regular Note              000
+Step Slide                '/'
+Loading Icon              000
+Song Mode Default?        000
+Blink on Beat?            001

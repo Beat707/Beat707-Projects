@@ -1,0 +1,30 @@
+The board and code requires some extra steps. You need to enable the ATmega328P ICs to run with the internal 8Mhz Crystal. Then when uploading the code you must select the correct board.
+
+-------------------------------------
+
+Use the following link for the Boards Manager on the Arduino IDE.
+
+https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
+
+To use this, open the Arduino IDE and select File->Preferences and add this link to "Additional Boards Manager URLs".
+
+
+Them open Tools->Board...->Boards Manager
+
+And select MiniCore by MCUdude and click Install.
+
+Now you can select Tools->Board...->MiniCore->ATmega328
+
+Go back to Tools->Variant->328P/328PA
+Go back to Tools->BOD:Disabled
+Go back to Tools->Clock:8Mhz Internal
+
+-------------------------------------
+
+If you are using ISP to program the chips, you don't need to bother with any uploader. But it you plan on doing code changes and tests on the code, the FTDI connection is the best option. For that you need to burn a 8Mhz bootloader. The one from the board above should do. Otherwise google on the internet on how to setup a custom Arduino ATmega328P with the 8Mhz Crystal.
+
+Now, you need to set the right fuses on the chip so it enables the 8Mhz Crystal. If you burn the bootloader above, it does that for you. Otherwise use the following command:
+
+avrdude -p ATMEGA328P -c usbtiny -U lfuse:w:0xe2:m -U hfuse:w:0xda:m -U efuse:w:0x05:m -C "Arduino IDE PATH\hardware\tools\avr\etc\avrdude.conf"
+
+Be sure to change "Arduino IDE PATH" to the correct location. In the command above I used the usbtiny programmer. Change the name for the one you are using.

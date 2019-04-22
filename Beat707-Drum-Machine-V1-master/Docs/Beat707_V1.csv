@@ -1,0 +1,50 @@
+,"Rugged Circuits Beat707 (AD060 Rev. B)",,,,,,,
+,,,,,,,,
+,"Part","Manufacturer","Manufacturer
+Part Number","Distributor","Distributor
+Part Number","Quantity","Part
+Description","Reference
+Numbers"
+"Capacitors",,,,,,,,
+,"0.1uF 0805 X5R","AVX","08055C104KAT2A","Digi-Key","478-1395-1-ND",15,"CAP CERM .1UF 10% 50V X7R 0805","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15"
+"Connectors",,,,,,,,
+,"60 pins of 0.1in header pins","Molex","22-28-4360","Digi-Key","WM6436-ND",2,"CONN HEADER 36POS .100 VERT TIN","X1, M1"
+,"5-pin DIN","CUI","SDS-50J","Digi-Key","CP-2350-ND",2,"CONN DIN 5 PIN FEMALE PCB","X2, X3"
+"Diodes",,,,,,,,
+,"GP switching diode SOD-123","Diodes Inc","1N4448W-7-F","Digi-Key","1N4448W-FDICT-ND",1,"DIODE SWITCH 75V 400MW SOD123","D1"
+,"3.3V zener SOT-23","NXP","BZX84-C3V3,215","Digi-Key","568-1675-1-ND",2,"DIODE ZENER 3.3V 250MW SOT23","D2, D3"
+"IC's",,,,,,,,
+,"74HC595 serial-to-parallel shift register","NXP","74HC595D,118","Digi-Key","568-1483-1-ND",2,"IC SHIFT REGISTER 8BIT 16SOIC","IC1, IC2"
+,"74HC165 parallel-to-serial shift register","NXP","74HC165D,652","Digi-Key","568-3954-5-ND",4,"IC SHIFT REGST 8BIT PI-SO 16SOIC","IC3, IC4, IC5, IC6"
+,"Quad tri-state buffer","Fairchild","MM74HC125M","Digi-Key","MM74HC125M-ND",1,"IC BUFF TRI-ST QD N-INV 14SOIC","IC7"
+,"Tri-state buffer","ON Semi","M74VHC1GT125DT1G","Digi-Key","M74VHC1GT125DT1GOSCT-ND",2,"IC BUFF CMOS LVL/SFTR N-I SOT235","IC13, IC14"
+,"EEPROM 256kbit I2C 5V 3.9mm SO-8","Microchip","24LC256T-I/SN","Digi-Key","24LC256T-I/SNCT-ND",1,"IC EEPROM 256KBIT 400KHZ 8SOIC","IC8, IC9, IC10, IC11"
+,"NAND FLASH SPI 4Mbit SO-8 3.9mm","Microchip","SST25VF040B-80-4I-SAE","Digi-Key","SST25VF040B-80-4I-SAE-ND",1,"IC FLASH SER 4MB 80MHZ SPI 8SOIC","IC15"
+"LCD",,,,,,,,
+,"16x2 LCD with backlight","Newhaven","NHD-0216K1Z-NSW-BBW-L","Digi-Key","NHD-0216K1Z-NSW-BBW-L-ND",1,"LCD MOD CHAR 2X16 WHT TRANSM","LCD1"
+,"Spacers for LCD","Bivar","9908-250","Digi-Key","492-1074-ND",4,"SPACER NYLON #4 SCREW 1/4""","N/A"
+"LED's",,,,,,,,
+,"Red LED 1206","Osram","LH N974-KN-1-0-20-R18","Digi-Key","475-1416-1-ND",16,"LED CHIPLED 645NM RED DIFF 1206","LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16"
+"Optoisolators",,,,,,,,
+,"4-pin SMD optoisolator >=100% CTR","Lite-On","LTV-817S","Digi-Key","160-1367-5-ND",1,"OPTOISOLATOR 1CH SMD","IC12"
+"Potentiometers",,,,,,,,
+,"10k trimpot PTH","Panasonic - ECG","EVN-D8AA03B14","Digi-Key","D4AA14-ND",2,"TRIM POT 10K CARBON LAYDOWN","R84, R86"
+"Resistors",,,,,,,,
+,"10 ohm 0805 5%","Stackpole","RMCF0805JT10R0","Digi-Key","RMCF0805JT10R0CT-ND",4,"RES 10 OHM 1/8W 5% 0805 SMD","R79, R80, R81, R82"
+,"100 ohm 0805 5%","Stackpole","RMCF0805JT100R","Digi-Key","RMCF0805JT100RCT-ND",24,"RES 100 OHM 1/8W 5% 0805 SMD","R102, R103, R104, R105, R106, R107, R108, R109, R110, R111, R112, R113, R114, R115, R116, R117, R118, R119, R120, R121, R123, R124, R125, R126"
+,"120 ohm 0805 5%","Stackpole","RMCF0805JT120R","Digi-Key","RMCF0805JT120RCT-ND",4,"RES 120 OHM 1/8W 5% 0805 SMD","R89, R90, R91, R92"
+,"300 ohm 0805 5%","Rohm","MCR10EZPJ301","Digi-Key","RHM300ARCT-ND",17,"RES 300 OHM 1/8W 5% 0805 SMD","R2, R4, R6, R8, R10, R12, R14, R16, R18, R20, R22, R24, R26, R28, R30, R32, R93"
+,"1k 0805 1%","Stackpole","RMCF0805JT1K00","Digi-Key","RMCF0805JT1K00CT-ND",6,"RES 1K OHM 1/8W 5% 0805 SMD","R66, R94, R95, R97, R98, R99"
+,"1.5k 0805 5%","Stackpole","RMCF0805JT1K50","Digi-Key","RMCF0805JT1K50CT-ND",2,"RES 1.5K OHM 1/8W 5% 0805 SMD","R100, R101"
+,"4.7k 0805 5%","Stackpole","RMCF0805JT4K70","Digi-Key","RMCF0805JT4K70CT-ND",1,"RES 4.7K OHM 1/8W 5% 0805 SMD","R87"
+,"10k 0805 1%","Vishay","RMCF0805JT10K0","Digi-Key","RMCF0805JT10K0CT-ND",66,"RES 10K OHM 1/8W 5% 0805 SMD","R1, R3, R5, R7, R9, R11, R13, R15, R17, R19, R21, R23, R25, R27, R29, R31, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47,
+R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R67, R68, R69, R70, R71, R72, R73, R74, R75, R76, R77, R78,
+R83, R85, R88, R96, R122"
+"Switches",,,,,,,,
+,"6mm tact switch","Panasonic - ECG","EVQ-PE505K","Digi-Key","P13590S-ND",1,"SWITCH LT TOUCH 6X3.5MM 160GF","S25"
+,"Switch cap 12mm square - red","E-Switch","4JRED","Digi-Key","EG1078-ND",5,"SWITCH CAP RED SQ 12MM EX ACT",
+,"Switch cap 12mm square - gray","E-Switch","4JGRY","Digi-Key","EG1079-ND",19,"Switch Hardware 12 X 12MM SQ GRAY",
+,"Switch tactile momentary 12mm 160gf","E-Switch","TL1100F160Q","Digi-Key","EG1821-ND",24,"SWITCH TACT SPST 12MM MOM N/O","S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24"
+"Transistors",,,,,,,,
+,"NPN SOT-23 40V","Diodes Inc","MMBT4401-7-F","Digi-Key","MMBT4401-FDICT-ND",17,"TRANS NPN 350MW 40V SMD SOT23-3","T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T18"
+,"PNP SOT-23 40V","Diodes Inc","MMBT4403-7-F","Digi-Key","MMBT4403-FDICT-ND",1,"TRANS PNP 40V 350MW SMD SOT23-3","T17"

@@ -1,0 +1,88 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Beat707 Mikro
+*Date=10:19:24
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;66.3812;-71.7603;-90;Bottom;USB D.Out
+2;;;60.457;-41.7603;0;Bottom;Jumper2
+3;;;38.3047;-47.3024;0;Bottom;TXT1
+4;;;34.9988;-23.1724;0;Bottom;TXT1
+5;;din_5_female_support;16.6685;-91.2243;180;Bottom;MIDI Input
+6;;;3.61112;-43.2603;0;Bottom;Hole5
+7;;;96.6112;-43.2603;0;Bottom;Hole6
+8;;THT;7.88134;-70.2603;-90;Bottom;MIDI Out
+9;;;3.61112;-96.4417;0;Bottom;Hole4
+10;;;89.0799;-31.3562;-90;Bottom;TXT1
+11;;THT;33.6113;-36.4502;0;Bottom;A3
+12;;;42.2876;-37.0797;0;Bottom;Jumper12
+13;;THT;83.1113;-25.3703;180;Bottom;SD Card (CS Pin 10)
+14;;;51.1431;-66.1877;0;Bottom;Via1
+15;10k;THT;89.1111;-48.6803;90;Bottom;10k
+16;;;17.1111;-60.5103;0;Bottom;Jumper10
+17;;;11.1708;-35.5272;0;Bottom;TXT1
+18;220;THT;15.0312;-65.7603;180;Bottom;220
+19;;THT;11.1111;-49.2111;0;Bottom;FTDI IC #1
+20;;THT;42.6113;-71.9903;0;Bottom;MIDI In
+21;;;88.8431;-18.9774;-90;Bottom;TXT1
+22;;;56.1112;-95.7604;0;Bottom;Hole7
+23;;THT;11.1111;-22.6003;0;Bottom;Extras
+24;;THT;54.6111;-57.2103;0;Bottom;FTDI IC #2
+25;;;88.7287;-67.4276;0;Bottom;TXT2
+26;100nF;200 mil [THT, multilayer];81.6113;-43.7203;90;Bottom;100nF
+27;;dip;25.3012;-28.3311;0;Bottom;atMega328 IC #1
+28;;;11.1369;-40.2279;0;Bottom;TXT1
+29;220;THT;30.6112;-78.7128;-90;Bottom;220
+30;;;56.5739;-14.649;0;Bottom;TXT1
+31;;;96.6112;-96.4417;0;Bottom;Hole1
+32;;;54.375;-66.2093;0;Bottom;TXT1
+33;1k;THT;15.0312;-62.7603;180;Bottom;1k
+34;10k;THT;86.1111;-48.6803;90;Bottom;10k
+35;;THT;26.5712;-69.4503;90;Bottom;4N35
+36;;;3.61112;-3.64614;0;Bottom;Hole3
+37;100nF;100 mil [THT, multilayer];35.1113;-26.9902;90;Bottom;100nF
+38;;THT;66.8522;-91.7106;0;Bottom;CONN1
+39;;THT;63.3812;-79.2603;-90;Bottom;Power Switch
+40;;din_5_female_support;39.1684;-91.2243;180;Bottom;MIDI Output
+41;;THT;86.1114;-25.3703;180;Bottom;SD Card1
+42;;;47.6103;-41.711;0;Bottom;Jumper3
+43;;THT;51.3811;-73.2603;-90;Bottom;USB D.In
+44;;300 mil [THT];19.3266;-79.2603;180;Bottom;1N4748
+45;;;88.3255;-70.1935;0;Bottom;TXT2
+46;1µF;100 mil [THT, electrolytic];56.2133;-80.8807;90;Bottom;C1
+47;;;54.633;-48.1994;0;Bottom;TXT1
+48;10k;THT;61.5637;-61.2603;0;Bottom;10k
+49;;THT;35.1113;-15.6802;0;Bottom;Extras
+50;;;77.1113;-81.5103;0;Bottom;Jumper9
+51;;;5.82044;-63.3774;0;Bottom;Jumper6
+52;;;89.013;-72.9144;0;Bottom;TXT2
+53;;;87.6774;-75.6675;0;Bottom;TXT2
+54;;THT;38.1113;-41.0703;180;Bottom;2IC
+55;;;93.6111;-56.7602;0;Bottom;Jumper8
+56;;;35.1113;-50.9321;0;Bottom;Jumper5
+57;;;11.1871;-58.263;0;Bottom;TXT1
+58;10k;THT;21.6112;-49.8078;90;Bottom;10k
+59;;;32.1113;-49.4789;0;Bottom;Jumper4
+60;;;96.6112;-3.64614;0;Bottom;Hole2
+61;;THT;54.2541;-25.9503;180;Bottom;Main Headers
+62;;;56.1352;-71.6881;0;Bottom;Jumper7
+63;;;11.0144;-9.64463;0;Bottom;TXT1
+64;;usb-a-h;85.4806;-89.4488;90;Bottom;X1
+65;;;60.5016;-44.7826;0;Bottom;Jumper1
+66;;;35.1766;-7.92421;0;Bottom;TXT1
+67;;dip;70.3013;-43.3702;0;Bottom;atMega328 IC #2
+68;;;38.1938;-34.5976;0;Bottom;TXT1
+69;220;THT;36.4716;-74.1803;90;Bottom;220
+70;100nF;200 mil [THT, multilayer];60.6112;-54.8002;-90;Bottom;100nF
+71;100nF;200 mil [THT, multilayer];16.0378;-45.4803;-90;Bottom;100nF
+72;;;8.40869;-56.2477;0;Bottom;Jumper11
+73;;;33.5346;-30.2099;0;Bottom;TXT1

@@ -1,0 +1,36 @@
+Main Headers
+------------
+
+```
+Pin	AVR	Arduino	Port	Conect to Button
+------------------------------------------------
+01	13	D7	PD7	Stop
+02	12	D6	PD6	ValueDown
+03	11	D5	PD5	ValueUp
+04	10	--	PB7	Shift
+05	09	--	PB6	Right
+06	06	D4	PD4	Left
+07	05	D3	PD3	Down
+08	04	D2	PD2	Up
+09	GND
+10	VCC
+11	15	D9	PB1	--
+12	23	A0	PC0	--
+13	24	A1	PC1	--
+14	25	A2	PC2	Rec
+15	26	A3	PC3	Menu
+16	14	D8	PB0	Play
+```
+
+--------------------------------------------------------------------------------
+
+Looking at the PCB, with the SD conection on TOP and MIDI+USB on the LEFT, the Main Headers pins should read
+
+```
++----------___----------+
+|08 07 06 05 04 03 02 01|
+|09 10 11 12 13 14 15 16|
++-----------------------+
+```
+
+For the SD Card we use the one found on the picture: SD Arduino Board.jpg

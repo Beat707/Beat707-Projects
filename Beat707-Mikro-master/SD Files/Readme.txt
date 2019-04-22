@@ -1,0 +1,1 @@
+Copy the B707mk folder to a FAT32 formated SD Card root folder (main folder).

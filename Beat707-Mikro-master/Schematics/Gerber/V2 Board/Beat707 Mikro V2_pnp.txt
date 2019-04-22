@@ -1,0 +1,103 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Beat707 Mikro V2
+*Date=09:36:33
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;37.9229;-47.5279;0;Bottom;TXT1
+2;;;55.7294;-95.9859;0;Bottom;Hole7
+3;;;50.1412;-45.0826;0;Bottom;Via14
+4;;;36.7402;-58.4703;0;Bottom;Via10
+5;;;3.26795;-23.8915;-90;Bottom;TXT1
+6;;;15.9765;-56.446;0;Bottom;Via7
+7;;THT;33.2294;-36.6757;0;Bottom;A3
+8;100nF;200 mil [THT, multilayer];15.656;-45.7058;-90;Bottom;100nF
+9;10k;THT;88.7293;-48.9058;90;Bottom;10k
+10;100nF;200 mil [THT, multilayer];81.2295;-43.9458;90;Bottom;100nF
+11;;;74.7699;-85.933;0;Bottom;Via5
+12;;;38.278;-57.0383;0;Bottom;Via8
+13;100nF;100 mil [THT, multilayer];56.2418;-36.7774;-90;Bottom;22pf
+14;;THT;34.7294;-15.9057;0;Bottom;Extras
+15;10k;THT;85.7292;-48.9058;90;Bottom;10k
+16;;;3.22927;-3.87164;0;Bottom;Hole3
+17;;;87.221;-70.4189;0;Bottom;TXT2
+18;10k;THT;25.4562;-6.84522;90;Bottom;10k2
+19;;THT;62.9993;-79.4857;-90;Bottom;Power Switch
+20;;;88.698;-31.5817;-90;Bottom;TXT1
+21;;THT;73.2985;-9.2743;-90;Bottom;Vox Audio
+22;;;31.7293;-44.9858;0;Bottom;Via11
+23;;;54.2511;-48.4249;0;Bottom;TXT1
+24;;;3.22927;-96.6672;0;Bottom;Hole4
+25;;THT;82.7295;-25.5958;180;Bottom;SD Card (CS Pin 10)
+26;10k;THT;28.7638;-6.94343;90;Bottom;Vox1k
+27;;;88.6312;-73.1399;0;Bottom;TXT2
+28;;THT;37.7294;-41.2957;180;Bottom;2IC
+29;;hc49u-v;60.6925;-35.9087;90;Bottom;16mhz
+30;;;33.1528;-30.4354;0;Bottom;TXT1
+31;;300 mil [THT];18.9447;-79.4857;180;Bottom;1N4748
+32;;;53.9932;-66.4347;0;Bottom;TXT1
+33;1µF;100 mil [THT, electrolytic];55.8315;-81.1062;90;Bottom;C1
+34;;;34.6169;-23.3979;0;Bottom;TXT1
+35;;;3.22927;-43.4858;0;Bottom;Hole5
+36;;THT;66.4704;-91.9361;0;Bottom;CONN1
+37;;;96.2294;-3.87164;0;Bottom;Hole2
+38;;;88.4612;-19.2029;-90;Bottom;TXT1
+39;;THT;85.7295;-25.5958;180;Bottom;SD Card1
+40;;din_5_female_support;16.2866;-91.4498;180;Bottom;MIDI Input
+41;;dip;24.9194;-28.5566;0;Bottom;atMega328 IC #1
+42;;din_5_female_support;38.7865;-91.4498;180;Bottom;MIDI Output
+43;;THT;14.7122;-5.88143;-90;Bottom;Vox Cntrl
+44;10k;THT;61.1818;-61.4858;0;Bottom;10k
+45;;;88.3469;-67.6531;0;Bottom;TXT2
+46;;;43.7294;-44.9858;0;Bottom;Via12
+47;;;91.7295;-53.9858;0;Bottom;Via3
+48;;THT;50.9992;-73.4858;-90;Bottom;USB D.In
+49;;;65.6554;-9.26194;0;Bottom;TXT1
+50;;;87.2956;-75.893;0;Bottom;TXT2
+51;10k;THT;21.2293;-50.0333;90;Bottom;10k
+52;;;43.6376;-54.0555;0;Bottom;Hole8
+53;100nF;100 mil [THT, multilayer];34.7294;-27.2157;90;Bottom;100nF
+54;;;96.2294;-43.4858;0;Bottom;Hole6
+55;100nF;100 mil [THT, multilayer];57.1379;-29.1267;180;Bottom;22pf1
+56;;;96.2294;-96.6672;0;Bottom;Hole1
+57;100nF;100 mil [THT, multilayer];10.195;-22.3545;180;Bottom;22pf
+58;220;THT;14.6493;-65.9858;180;Bottom;220
+59;;;10.8053;-58.4885;0;Bottom;TXT1
+60;;;91.7295;-59.9858;0;Bottom;Via2
+61;;THT;49.7781;-26.1757;180;Bottom;Interface Headers
+62;;usb-a-h;85.0987;-89.6743;90;Bottom;X1
+63;;;5.54752;-9.87013;0;Bottom;TXT1
+64;;dip;69.9194;-43.5957;0;Bottom;atMega328 IC #2
+65;100nF;100 mil [THT, multilayer];10.182;-26.9123;0;Bottom;22pf
+66;;;76.8312;-79.8934;0;Bottom;Via4
+67;;;34.7948;-8.1497;0;Bottom;TXT1
+68;;;5.69314;-35.6723;0;Bottom;TXT1
+69;100nF;200 mil [THT, multilayer];60.2293;-55.0257;-90;Bottom;100nF
+70;;;34.7293;-46.4857;0;Bottom;Via9
+71;10k;THT;73.7356;-16.5539;90;Bottom;Vox1k
+72;;;10.755;-40.4534;0;Bottom;TXT1
+73;220;THT;36.0897;-74.4057;90;Bottom;220
+74;;hc49u-v;15.7488;-24.8137;90;Bottom;16mhz
+75;;THT;10.7292;-49.4366;0;Bottom;FTDI IC #1
+76;;;10.7793;-8.47877;0;Bottom;TXT1
+77;;THT;65.9994;-71.9857;-90;Bottom;USB D.Out
+78;;THT;26.1894;-69.6758;90;Bottom;4N35
+79;;;37.8119;-34.8231;0;Bottom;TXT1
+80;;THT;54.2293;-57.4358;0;Bottom;FTDI IC #2
+81;;THT;42.2295;-72.2158;0;Bottom;MIDI In
+82;;;51.2294;-68.9858;0;Bottom;Via6
+83;;;55.4687;-17.0448;0;Bottom;TXT1
+84;220;THT;30.2294;-78.9383;-90;Bottom;220
+85;;;50.0748;-3.16665;0;Bottom;Hole9
+86;1k;THT;14.6493;-62.9858;180;Bottom;1k
+87;;THT;5.66674;-22.8258;0;Bottom;Extras
+88;;THT;7.49949;-70.4858;-90;Bottom;MIDI Out
