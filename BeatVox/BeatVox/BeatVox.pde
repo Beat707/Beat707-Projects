@@ -1,6 +1,6 @@
 /*
 
-  Created by Beat707 (c) 2011 - http://www.Beat707.com
+  Created by WilliamK @ Beat707 (c) 2019 - http://www.Beat707.com
   
   The code uses the MIDI Shield: http://www.ruggedcircuits.com/html/flexible_midi_shield.html
 

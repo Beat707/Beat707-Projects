@@ -1,8 +1,7 @@
 # Beat707 NXT
 ### Open Source Arduino Compatible MIDI Sequencer
 
-created by William (Guilherme) Kalfelz (c) 2018
-Creative Development by Gert Borovčak
+created by William (Guilherme) Kalfelz (c) 2019
 
 www.Beat707.com - www.Wusik.com - www.Kalfelz.com
 

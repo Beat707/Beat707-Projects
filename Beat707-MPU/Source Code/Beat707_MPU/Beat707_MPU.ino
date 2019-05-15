@@ -1,9 +1,7 @@
 /*
  * 
  * Beat707 MPU - MIDI Processing Unit
- * Created by William Kalfelz @ Beat707 (c) 2017 - http://www.Beat707.com
- * 
- * https://github.com/Beat707/Beat707-MPU
+ * Created by William Kalfelz @ Beat707 (c) 2019 - http://www.Beat707.com
  * 
  * Pins are Hardwired: Pin 2 is LED Activity and Pin 3 is Button Input (using pull-up resistors). Connect Button to Ground. ATtiny2313 Used.
  * 

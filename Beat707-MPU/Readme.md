@@ -1,13 +1,9 @@
 # Beat707 MPU
 ### Open Source Arduino Compatible MIDI Processing Unit
 
-https://github.com/Beat707/Beat707-MPU
-
-created by William (Guilherme) Kalfelz (c) 2017
+created by William (Guilherme) Kalfelz (c) 2019
 
 www.Beat707.com - www.Wusik.com - www.Kalfelz.com
-
-Support us on Patreon: https://patreon.com/williamk
 
 --------------------------------------------------------------------------------
 

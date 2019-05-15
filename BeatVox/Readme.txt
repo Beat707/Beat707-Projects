@@ -1,20 +1,4 @@
-Created by Beat707 (c) 2011 - http://www.Beat707.com
-
-Beat707.com is a joint collaboration between Wusik.com and RuggedCircuits.com, all rights reserved (c) 2011
-
---------------------------------------------------------------------------------------------------------
-
-Please, consider making a donation to support continued software development: http://donate.Beat707.com
-
---------------------------------------------------------------------------------------------------------
-
-Latest version direct download link:
-
-https://github.com/Beat707/BeatVox/archives/master
-
-Official GitHub download area:
-
-https://github.com/Beat707/BeatVox
+Created by William Kalfelz @ Beat707 (c) 2019 - http://www.Beat707.com
 
 --------------------------------------------------------------------------------------------------------
 

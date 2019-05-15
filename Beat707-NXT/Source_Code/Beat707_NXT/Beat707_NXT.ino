@@ -1,8 +1,7 @@
 /*
  * 
  * Beat707 NXT - Works with 3 x TM1638 boards connected in paralel
- * Created by William Kalfelz @ Beat707 (c) 2018 - http://www.Beat707.com / http://www.Wusik.com / http://www.Kalfelz.com
- * Creative Development by Gert Borovčak
+ * Created by William Kalfelz @ Beat707 (c) 2019 - http://www.Beat707.com / http://www.Wusik.com / http://www.Kalfelz.com
  * 
  * https://github.com/Beat707/Beat707-NXT
  * 
