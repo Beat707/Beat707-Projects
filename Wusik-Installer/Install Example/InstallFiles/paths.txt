@@ -1,6 +1,0 @@
-c:\vstPlugins
-c:\Wusik 4000 Data
-HKEY_CURRENT_USER\Software\Wusik\Wusik 4000\Install Path Wusik Station
-HKEY_CURRENT_USER\Software\Wusik\Wusik 4000\Data Path
-HKEY_CURRENT_USER\Software\Wusik\Wusik 4000\User Path
-HKEY_CURRENT_USER\Software\Wusik\Wusik 4000\Install Path Plugins
